@@ -15,3 +15,13 @@ pip install jupyterlab-rise
 ```
 
 To customize RISE, navigate to the "Nbextension" menu.
+
+# In Progress
+
+## 1. Assignment/Case Study
+Work in progress for the assignment or case study.
+
+## 2. Adding Material on Data Manipulation Operations
+Expanding the content with additional material on data manipulation operations such as aggregation, pivoting, sorting.
+
+Feel free to check back for updates!
